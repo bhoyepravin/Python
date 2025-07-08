@@ -4,3 +4,7 @@ print("Hello world")
 # To run this script, you can use the command line or terminal:
 # 1. Open your terminal or command prompt.
 
+def main(n):
+    print(n)
+
+main(4)
